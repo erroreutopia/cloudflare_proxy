@@ -1,5 +1,5 @@
-# cloudflare_proxy
-感谢 [listder](https://github.com/listder)的教导
+# cloudflare_proxy_V2ray
+## 感谢 [listder](https://github.com/listder)的教导
 
 
 1. 添加自己的UUID(可以在网上找uuid生成器)
