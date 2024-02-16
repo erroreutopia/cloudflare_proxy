@@ -16,3 +16,7 @@ user.pages.dev/your_uuid
 例:(这里user叫x
 uuid为0000-0000)
 x.pages.dev/0000-0000
+
+复制粘贴至V2ray即可
+
+* 仅为个人学习用,请勿用作违法用途
